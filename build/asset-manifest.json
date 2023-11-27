@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.75891aa1.css",
-    "main.js": "/static/js/main.f258ff83.js",
-    "static/js/985.9373094a.chunk.js": "/static/js/985.9373094a.chunk.js",
-    "static/js/29.e8fcd888.chunk.js": "/static/js/29.e8fcd888.chunk.js",
-    "static/js/675.b5610427.chunk.js": "/static/js/675.b5610427.chunk.js",
+    "main.js": "/static/js/main.3560930f.js",
+    "static/js/985.be918fe9.chunk.js": "/static/js/985.be918fe9.chunk.js",
+    "static/js/29.8436167f.chunk.js": "/static/js/29.8436167f.chunk.js",
+    "static/js/675.f9de34cc.chunk.js": "/static/js/675.f9de34cc.chunk.js",
     "worker-xquery.js": "/be7ca7f0d52aeb9b3767b3706e629c77.js",
     "worker-javascript.js": "/3200cb31af7e6fe7e93099168920721a.js",
     "mode-php_laravel_blade.js": "/fd3f163370390e4ff75fc5b1dae91311.js",
@@ -471,13 +471,13 @@
     "d.js": "/c98e74fc97b04fe8bf43dcdff549afcf.js",
     "mode-text.js": "/0ffb18fb70c87335edee31a479f58a43.js",
     "main.75891aa1.css.map": "/static/css/main.75891aa1.css.map",
-    "main.f258ff83.js.map": "/static/js/main.f258ff83.js.map",
-    "985.9373094a.chunk.js.map": "/static/js/985.9373094a.chunk.js.map",
-    "29.e8fcd888.chunk.js.map": "/static/js/29.e8fcd888.chunk.js.map",
-    "675.b5610427.chunk.js.map": "/static/js/675.b5610427.chunk.js.map"
+    "main.3560930f.js.map": "/static/js/main.3560930f.js.map",
+    "985.be918fe9.chunk.js.map": "/static/js/985.be918fe9.chunk.js.map",
+    "29.8436167f.chunk.js.map": "/static/js/29.8436167f.chunk.js.map",
+    "675.f9de34cc.chunk.js.map": "/static/js/675.f9de34cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75891aa1.css",
-    "static/js/main.f258ff83.js"
+    "static/js/main.3560930f.js"
   ]
 }
